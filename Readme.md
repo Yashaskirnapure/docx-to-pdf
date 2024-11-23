@@ -25,7 +25,7 @@ npm install
 ### 2. Start Server
 Ensure you have Node.js installed, then run:
 ```bash
-npm install
+npm start
 ```
 ## Usage
 
